@@ -4,5 +4,5 @@ Basit projeler ile kod yazma yeteneğinizi geliştirebileceğiniz çalışmalar�
 öğretici bir seri oluşturmak amaçlanmıştır. Projeler C++ dilini öğrenmek için yapılan ilk çalışmalarda desteğiniz olacaktır. 
 
 ## Önemli Açıklamalar
-Kodlar içerisinde ayrıca gerekli açıklamaları görebilirsiniz.
-Projeler basit ve anlaşılması kolay bir şekilde hazırlanmıştır.
+* Kodlar içerisinde ayrıca gerekli açıklamaları görebilirsiniz.
+* Projeler basit ve anlaşılması kolay bir şekilde hazırlanmıştır.
